@@ -1,0 +1,22 @@
+{
+"cycloCrossBike1":{
+      "Name":"Trek Boone 9 Disc",
+      "ImgPath":"http://www.weraceshimano.com/ImageGen.ashx?width=465&constrain=True&image=/media/161868/Bike_picture_3800_pix_breed.jpg",
+      "Description":"Boone is our fastest, smoothest, lightest Cross bike ever, with competition-crushing race geometry, and Trek's exclusive course-smoothing IsoSpeed technology. Mud, sweat, tears, triumph. You'll charge through it all with bigger speed, stronger lines, and more confidence than ever before. Boone is the ultimate Cyclocross superbike.",
+      "Link":"http://www.trekbikes.com/ie/en/bikes/road/cyclocross/boone/"
+    },
+
+    "cycloCrossBike2":{
+      "Name":"Colnago Prestige",
+      "ImgPath":"http://ep.yimg.com/ay/glorycycles/colnago-world-cup-disc-cross-bike-2014-1.gif",
+      "Description":"Developed with input from cycle-cross legend Sven Nys, the Cross Prestige is the ultimate carbon fibre cross frame. A monocoque front triangle makes it tough and light, while lugged seat stays and chain stays maximise tyre clearance. The lightness will also be appreciated when shouldering the Cross Prestige, as will the unique support between the top tube and seat tube developed at Sven Nys’s request to increase carrying comfort when on the shoulder.",
+      "Link":"http://colnago.com/prestige-2/?lang=en"
+    },
+     
+    "cycloCrossBike3":{
+      "Name":"Ridley X-Night 10",
+      "ImgPath":"http://content.ridley-bikes.com/bikes/x-night-10-disc-lv-bel_1380019666993029.jpg",
+      "Description":"The Ridley X-Night 1201D is Ridley's top end cross bike. Featuring the most advanced cross frame in the world, Mudless tube technology, and fully integrated Kevlar cable guides(for smooth shifting and cable life), it's in a class of it's own. ",
+      "Link":"http://www.ridley-bikes.com/be/en/bikes/4/144/44/cyclocross/x-night-10-disc-lv-bel"
+    }
+}

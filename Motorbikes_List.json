@@ -1,0 +1,21 @@
+
+{
+"Motorbike1":{
+      "Name":"MV Augusta Brutale 800 Dragster",
+      "HREF":"#MV_Agusta_Brutale_Dragster",
+      "ImgPath":"http://s1.cdn.autoevolution.com/images/news/gallery/1080/mv-agusta-brutale-800-dragster-unveiled-photo-galleryvideo-1080p-5.jpg?1391241611",
+      "TagLine":"The most extreme Brutale ever!",
+      "Description":"MV Agusta continues to expand its motorcycle range: after introducing the Rivale 800, the emblem of motard-style sports appeal and ultra-dynamic road performance, the new Brutale 800 Dragster takes the very concept of 'motorcycling passion' and makes it breathtakingly tangible. No mere means of transport, a motorcycle is a symbol of freedom, of our need to get out there and explore and to savour mile after spine-tingling mile. Experiencing every single second of that freedom. The new Brutale 800 Dragster embodies and embraces the ambitions and dreams of every biker, making them nothing less than on-the-road reality. Thrills. Unforgettable moments. The 3-cylinder Brutale 675 and 800 have introduced countless riders to that awesome buzz that goes with riding a high-performance naked bike. Outstanding ridability, power under constant control, lightness, great design, and exceptional value for money. This unmatched combination has made the 3-cylinder Brutale a huge success. Now, the Brutale 800 Dragster takes a big step forward into the future, yet does so with an attentive eye to the past. The most extreme Brutale ever is no fan of compromise: irreverent and brash, it is essential, brusque, outspoken and irascible. Packing a powerful punch, the Brutale 800 Dragster takes exhilaration to a whole new level. At the same time it draws on the ideas that shaped the first 4-cylinder Brutale bikes, the very essence of the naked concept and monuments to incomparable styling. Linking yesterday and tomorrow, the Brutale 800 Dragster embodies both experience and intuition, symbolising motorcycling past, present and forever. Pure essence. Pure thrills. 100% Brutale. With consummate Italian craftsmanship, the Brutale 800 Dragster re-evokes the epic DNA of the dragster race bikes, specifically built to release their explosive power in the few seconds that separate clutch release from the chequered flag. Seconds as scorching hot as the rubber left smoking on the tarmac. Seconds that speed by in the blink of a tachometer. In pursuit of unforgettable sensations. The Brutale 800 Dragster flings open the doors to the idea that freedom is attainable. On two wheels. Or even on just one.",
+      "Link":"http://www.mvagusta.it/en/motorcycles/dragster-800/"
+    },
+
+    "Motorbike2":{
+      "Name":"KTM Super Duke 1290R",
+      "HREF":"#KTM_Super_Duke_1290R",
+      "ImgPath":"http://www.1290superduker.com/cms/fileadmin/user_upload/Specials/Special__3/360/img_0_0_3.jpg",
+      "TagLine":"KTM Super Duke 1290R, Unleash the beast!",
+      "Description":"In the form of the KTM 1290 SUPER DUKE R, KTM has crowned its legendary Naked Bike model range with a machine that redefines the term Streetfighter. One look at its impressive performance data and aggressive design is enough to see that the 1290 R is the most extreme Super Duke ever. Thanks to unbeatable performance in conjunction with the versatility provided by the adjustable riding modes and PowerParts setups, pure riding pleasure is pre-programmed - from the racetrack to the city and everywhere in between. The new KTM 1290 SUPER DUKE R perfectly embodies the KTM philosophy: endless power, highest precision, perfect ergonomics, finest ingredients, not a gram too many, simply READY TO RACE! The KTM 1290 SUPER DUKE R – high-tech in an aggressive design with unprecedented functionality and razor-sharp sportiness reduced to the essentials. The new KTM 1290 SUPER DUKE R transforms optimum performance with maximum safety into ultimate riding pleasure.",
+      "Link":"http://www.ktm.com/gb/naked-bike/1290-super-duke-r/highlights.html"
+    }
+    
+}

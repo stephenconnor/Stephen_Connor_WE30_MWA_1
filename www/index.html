@@ -1,0 +1,68 @@
+<!-- ---------------------------------------------
+Program     : MWA_Assignment_ToDo_List_AngularJS_App
+Written By  : Stephen Connor    
+Date        :
+Decription  : 
+Version     : 
+----------------------------------------------- -->
+<!doctype html>
+<html ng-app>
+<!-- initialises app-->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="utf-8" />
+
+<script src="angular/angular.min.js"></script>
+
+<script src="JS/todo.js"></script>
+
+<script src="JS/underscore.js"></script>
+
+<script src="phonegap.js"></script>
+
+<link rel="stylesheet" href="CSS/bootstrap.css" />
+<link rel="stylesheet" href="CSS/todo.css" />
+
+<title>ToDo List AngularJS App</title>
+    
+
+</head>
+<body>
+
+<div ng-controller="TodoController" class="container">
+ 
+    <div class="page-header">
+        <img src="Icons/task-list-icon.png">
+        <p><h2>ToDo Tasks</h2></p>
+    </div>
+    
+    <h3 class="headtitle">Todays Tasks: {{getNumberTodos()}}</h3>
+    <!-- displays number of outstanding tasks-->
+    
+    <ul class="list-group">
+        <li ng-repeat="todo in todos">
+            <input type="checkbox" ng-model="todo.done">    
+            <span class="done-{{todo.done}}">{{todo.text}}</span>
+        </li>
+    </ul>
+    <!-- ng repeat will loop through all the items from todo list. ng-model="todo.done" binds to the checkbox so that when task is selected as complete the task will be stiked through and shaded out. -->
+
+    <form class="form-inline">
+        <input type="text" ng-model="formTodoAdd" ng-model-instant>
+        <button class="btn" ng-click="addTodo()"><strong>Add <i class="glyphicon glyphicon-plus"></i></strong></button>
+    </form>
+     <!-- adds new task to list and is bound to the formTodoAdd. Button is bound to the addToDo function. -->
+    <br/>
+    <form class="form-inline">
+        <button class="btn-large" ng-click="deleteFinishedTasks()"><strong>Delete Finished Tasks <i class="glyphicon glyphicon-remove"></i></strong>
+        </button>
+    </form>
+     <!-- button delete completed task from list and in bound to the deleteFinishedTasks function. -->
+   
+</div>
+
+
+    
+</body>
+</html>
+

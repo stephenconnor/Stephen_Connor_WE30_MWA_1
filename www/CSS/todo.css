@@ -1,0 +1,78 @@
+/* change container margins */
+.container{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+
+/* change size of image in header */
+.page-header{
+    background-color: #DCDCDC;
+    margin-left: : auto;
+    margin-right: auto;
+    display: block;
+    position: relative;
+    margin-top: 0;
+}
+
+
+/* change size of image in header */
+img {
+    height: 10%;
+    width: 10%;
+}
+
+
+/* strikes through and shades out completer tasks */
+.done-true {
+    text-decoration: line-through;
+    color: #A0A0A0 ;
+    font-weight: 400;
+}
+
+
+/* change font weight, size and colour of incomplete tasks */
+.done-false {
+    color: #900000 ;
+    font-weight: 800;
+    font-size: 125%;
+}
+
+
+/* change font weight and size in button. change width of button */
+.btn{
+    width:85px;
+    font-size: 125%;
+    font-weight: 600;
+}
+
+
+/* change font colour, wieght and style in headtitle */
+.headtitle { 
+    color: #900000 ;
+    font-weight: 800;
+    font-style: oblique;
+}
+
+
+/* change button width and height. changes font size and weight */
+.btn-large {
+    width: 275px;
+    font-size: 125%;
+    font-weight: 600;
+    height: 50px;
+}
+
+
+/* change size icon and icon text */
+i {
+    height: 25px;
+    width: 25px;
+    font-weight: 700;  
+}
+
+
+.icon-add {
+    background-image: src("Icons/add-icon.jpeg")
+}
+

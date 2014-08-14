@@ -1,0 +1,142 @@
+/* ---------------------------------------------
+Program     : 
+Written By  : Stephen Connor    
+Date        :
+Decription  : 
+Version     : 
+------------------------------------------------- */
+/* navbar body background colour change */ 
+.ui-body-a {
+    background-color: #f7931e;
+    color: #666666;
+    font-weight: 800;
+    a:link {color:#666666;};
+    a:active {color:#666666;};
+    a:visted {color:#666666;};
+}
+
+/* navbar launch button re-size */ 
+.ui-btn {
+    height: 20px;
+    margin: 10px;
+    background-color: #000000;
+}
+
+       
+/* ---------------------Home Page----------------------- */
+
+/* navbar background colour change */ 
+#myNavPanel {
+    background-color: #f7931e;
+    color:#666666;
+}
+    
+.ui-panel-inner {
+     background-color: #f7931e;
+}
+    
+/* adjust image image height in list items */
+#Home img {
+    height: 175px;
+}
+
+/* adjust list item height in list items */
+#home .ui-grid-a .ui-responsive {
+    height: 200px;
+}
+
+/* adjusts placeholder text  for browsers */
+#Home ::-webkit-input-placeholder {
+    font-weight: 600;
+    color: #666666;
+}
+
+#Home :-moz-placeholder { /* Firefox 18- */
+   font-weight: 600;
+    color: #666666;  
+}
+
+#Home ::-moz-placeholder {  /* Firefox 19+ */
+   font-weight: 600;
+    color: #666666;  
+}
+
+#Home:-ms-input-placeholder {  
+   font-weight: 600;
+    color: #666666;  
+}
+
+
+/* -------------------Motorbikes Page--------------------- */
+
+/* navbar background colour change */
+.ui-panel {
+    background-color: #f7931e;
+    color: #FFFFFF;
+}
+
+#Motorbikes img{
+    height:250px;
+    width:350px;
+}
+/* ---------------------Bikes Page----------------------- */
+
+/* navbar background colour change */
+#myNavPanel2 .ui-panel {
+    background-color: #f7931e;
+}
+
+/* resizes images on rugby page */
+#Bikes img {
+    min-width: 90%; 
+    max-width: 100%;
+}
+
+
+/* ---------------------Rugby Page----------------------- */
+
+/* navbar background colour change */
+#myNavPanel3 {
+    background-color: #f7931e;
+}
+
+/* resizes images on rugby page */
+#Rugby img {
+    min-width: 80%; 
+    max-width: 80%;
+    min-height: 100%;
+    max-height: 100%;
+}
+
+
+/* ----------------------Contact Page---------------------*/
+
+/* navbar background colour change */
+#myNavPanel4 {
+    background-color: #f7931e;
+}
+
+/* adjusts placeholder text  for browsers */
+#Contact_Us .content label {
+    color: #FFFFFF;
+}
+
+#Contact_Us::-webkit-input-placeholder {
+    font-weight: 600;
+    color: #666666;
+}
+
+#Contact_Us :-moz-placeholder { /* Firefox 18- */
+   font-weight: 600;
+    color: #666666;  
+}
+
+#Contact_Us ::-moz-placeholder {  /* Firefox 19+ */
+   font-weight: 600;
+    color: #666666;  
+}
+
+#Contact_Us :-ms-input-placeholder {  
+   font-weight: 600;
+    color: #666666;  
+}

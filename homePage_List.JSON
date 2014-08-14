@@ -1,0 +1,22 @@
+{
+"homeMenu1":{
+           "Name":"Motorbikes",
+          "HREF":"#Motorbikes",
+          "ImgPath":"http://vector.me/files/images/2/3/234299/black_and_white_motorcycle_vector.jpg"
+            },
+"homeMenu2":{
+           "Name":"Cyclocross Bikes",
+          "HREF":"#Bikes",
+          "ImgPath":"http://vector.me/files/images/1/2/125258/road_cycling_sports_pictogram_olympic.jpg"
+            },
+"homeMenu3":{
+           "Name":"Rugby",
+          "HREF":"#Rugby",
+          "ImgPath":"http://vector.me/files/images/1/0/100764/sports_rugby_union_pictogram_olympic.jpg"
+            },
+"homeMenu4":{
+           "Name":"Contact Us",
+          "HREF":"#Contact_Us",
+          "ImgPath":"http://vector.me/files/images/2/5/257307/mail_badge"
+            }
+}
